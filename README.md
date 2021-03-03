@@ -19,4 +19,5 @@ Sistem Informasi Pegawai BPSMB (Balai Pengujian Sertifkasi dan Mutu Barang) Prov
 ![image](https://user-images.githubusercontent.com/32360091/109746621-a4bb6e80-7c10-11eb-815e-d3ff13c067a8.png)
 
 - Cetak Dokumen dan Ekspor PDF
-![image](https://user-images.githubusercontent.com/32360091/109746745-dc2a1b00-7c10-11eb-9c9d-e2adf73d570f.png)
+![Print Out](https://user-images.githubusercontent.com/32360091/109747459-1cd66400-7c12-11eb-967f-a109b44bcc1a.png)
+
